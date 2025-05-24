@@ -1,3 +1,4 @@
 01-intro/data/
 02-experiment-tracking/data/
+02-experiment-tracking/mlruns/
 gpu.py
