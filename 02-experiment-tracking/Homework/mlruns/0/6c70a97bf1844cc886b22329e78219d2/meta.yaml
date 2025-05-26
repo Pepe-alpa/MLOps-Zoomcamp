@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cachu/OneDrive/Documents/MCPI/Tesis_MCPI/Cursos/MLOps-Zoomcamp/02-experiment-tracking/Homework/mlruns/0/6c70a97bf1844cc886b22329e78219d2/artifacts
+end_time: 1748289093794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c70a97bf1844cc886b22329e78219d2
+run_name: nyc-taxi-homework
+run_uuid: 6c70a97bf1844cc886b22329e78219d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748287397913
+status: 3
+tags: []
+user_id: cachu

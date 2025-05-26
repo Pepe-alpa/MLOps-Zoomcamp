@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cachu/OneDrive/Documents/MCPI/Tesis_MCPI/Cursos/MLOps-Zoomcamp/02-experiment-tracking/mlflow-running-examples/mlruns/178986746491363684/7bd3d8280c4d4948aad7c0c44f6934ce/artifacts
+end_time: 1748203973946
+entry_point_name: ''
+experiment_id: '178986746491363684'
+lifecycle_stage: active
+run_id: 7bd3d8280c4d4948aad7c0c44f6934ce
+run_name: capable-steed-948
+run_uuid: 7bd3d8280c4d4948aad7c0c44f6934ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748203958127
+status: 3
+tags: []
+user_id: cachu
