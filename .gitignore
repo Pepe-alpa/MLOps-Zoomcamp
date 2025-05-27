@@ -3,5 +3,4 @@
 02-experiment-tracking/mlruns/
 02-experiment-tracking/preprocessor/
 02-experiment-tracking/Homework/data/
-02-experiment-tracking/Homework/output/
 gpu.py
