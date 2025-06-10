@@ -4,6 +4,8 @@
 02-experiment-tracking/preprocessor/
 02-experiment-tracking/Homework/data/
 02-experiment-tracking/Homework/output/
+03-orchestration/data/
+03-orchestration/mlruns/
 gpu.py
 
 .vscode/
